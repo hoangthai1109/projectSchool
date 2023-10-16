@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "asp-core-demo-401411",
+  "private_key_id": "8910a2ad9567bfe51f075db9fb752031730c059b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDZbnXaxxoLeAPH\nCUMB9t+vFlZgwXDrhb490WngAAKh0tX3eaJqq//ycKh0dgBIxS0zPaFVn+C26b1+\n2wB9RrG8eFzvwFKR4OVSXxTySbVLBTQZs3dDLjoHDbwclehrmD2AkRuWr2SGwTXG\nt2vKUXA6L00RKGx9kJ4QfduDyi2VIpP52oiVAYOICVk9qDhksS/WKkuLKE6D/rIr\nvTNeRa6zOztBk8Ch3x2A6EruTfM6iBmrIbuVsnt3Cr+Fg/Zx3rbgiQJNav+/Xi23\ntpaVpcU3DfAS2Zq72fKdMmNczqW4sO+GVc7TTy4qvALZja7h2OJzFCpe5kpzP4iv\nh01r31MRAgMBAAECggEAAWhQRspfnq/aOvDWkviUxaHxSLun1IEioSit+SOZAuXB\nqHzQlJG5upYzPTk421DNTe9xbeF/bdtrsCuy0UdztMCWCsIQhKI542Wl1eWst0HW\nmWaGXr7b5JGYoBoUL7Zhzryuh6uc6r3+TgXEZwaBMqQGE/0fO7sdW1tfV7L0Ty7r\nbUWWgdyQo6WiEBRm2G79wD6WrkClRxtVmoD5PMcxSKKAmxsss2drGnuuxJCm434S\nhLYVVgfjWgWMXAmKhFkL4+tFaEzw3Z1WWsO9X/LE1tX8xPynbeIyuXhh8Qb04Ljb\nocFtsm7xyZcYPVbqjy+Pz9V7W8ZeUECdSsZuG8SiSwKBgQD3as1c2EJRGsIATfNi\njJKs9z4uEMRI/iY9ciSJ36rsiQwmeuxRw/Ld5crt1CextW0+x3N2BOmIx2VZA7nx\nBXy9f1oQ8K99bSd9kzGkeJfGZMIPSVNKg9pM6EvAjMPXXM3Cf1Ja1zbCZYfi0N+J\nBYKBB/8/4aiX6DfUDQJmzwRogwKBgQDg+V5yaSBpMScEYvHjcMmyYVzNf02OJo4G\neSmfxKA7imanWMdzli6khUIkkjPH5lKgZ9p+3SVdlwaWAa2bSOHXKksgsGu22PCv\n9eBxpeOKb1DiJoA1dq3/LQWQuUDfFk8jpVHy/fDnMYMT2Ad/h+c6YNO1aZfCDyBw\noh+iFTx52wKBgFFKwTD5SUjWrtlkw0wk/ehg0AhYr/V/s9bKkyDN4Z4YJWrbRpxS\n8pBf+T4NUAF+p+dRpykm0giD41PM+qIreGHW3yPjwPVIEQqce1ob2VpxLqXRJNG9\n4tMUHBem6I3xSxXVuZxpS++xZmVq1ZdyvP9iPkaiAT/wJ6+/moNnD367AoGAYZjs\n9zdR/zB6m7WM+D1C0ubYCrIyY/un23kOrKfxV0MoW2rxQ9ygKXFCC3l9izgJGltT\nd3varOpKyiK6PMZ2axCG/Qxr/ivI5p0FHGh5+OFntmQ7dHYi77OJWYp0cRNNi8o5\nbe/qZXGeSqqKPjIoBrRgw6+mTWKgkRxUGs2ZqccCgYAozeXvBOdaKXc4DS958s+H\ntlsUk5EcW2YSFQRvOoSfZTJEXgvP/ihG6+nP38kmno89o7B2dK0hBrjnARsYHY+5\nBHYACW0Z6hARFHVIsW0tZ7NMKF2+tqdKgtGXsiEm7Hj6TpXkEfAAAal6kkbZedGU\nDsKRRE0ezwWN6Tfpv2kJAQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "asp-core-sa@asp-core-demo-401411.iam.gserviceaccount.com",
+  "client_id": "101276289526725436131",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/asp-core-sa%40asp-core-demo-401411.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
